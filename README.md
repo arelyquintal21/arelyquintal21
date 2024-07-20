@@ -1,5 +1,5 @@
 <img src="Portada.png">
-- 👋 Hola soy Arely Quintal
+- 👋 Hola soy ArelyQuintal
 - 👀 Estoy interesada en temas sobre tecnología aplicada a la educación.
 - 🌱 Actualmente estoy aprendiendo sobre tecnología educativa.
 - 📫 Puedes encontrarme en facebook como Arely Quintal.
